@@ -1,6 +1,6 @@
 branches: 
   - main
-repositoryUrl: https://github.com/liatrio/image-builder-goreleaser.git
+repositoryUrl: https://github.com/liatrio/image-builder-ruby.git
 plugins:
   - "@semantic-release/commit-analyzer"
   - "@semantic-release/release-notes-generator"
