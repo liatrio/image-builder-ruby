@@ -33,5 +33,5 @@ stage('Build') {
 ```
 
 ## What is installed on this image?
-- Version [3.X.Y](https://pkgs.alpinelinux.org/package/edge/main/x86/ruby) of the Ruby programming language
+- Version [3.X.Y](https://pkgs.alpinelinux.org/package/edge/main/x86/ruby) of the Ruby programming language.
 
